@@ -3,7 +3,7 @@
 Information Technology undergraduate at Bahria University, Lahore, building full-stack web applications and applied AI systems.
 
 - 🔭 Currently building: full-stack apps with React, Express, Laravel & MySQL, and exploring workflow automation with Make.com
-- 🎓 BS Information Technology, Bahria University (CGPA 3.71/4.0) — graduating Feb 2027
+- 🎓 BS Information Technology, Bahria University (CGPA 3.7/4.0) — graduating Feb 2027
 - 🏆 80th percentile nationally, NSCT 2026 CS Aptitude Test
 - ⚡ Make.com — Intermediate Certified (Workflow Automation, API Integrations)
 - 🌱 Seeking a remote software engineering, full-stack development, or workflow-automation internship
